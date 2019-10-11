@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
 	int n, i, j;
-	printf("���ڸ� �Է��Ͻÿ�. : ");
+	printf("¼ýÀÚ¸¦ ÀÔ·ÂÇÏ½Ã¿À. : ");
 	scanf_s("%d", &n);
 	if (n < 1) n = 1;
 
